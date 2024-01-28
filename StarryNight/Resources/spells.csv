@@ -1,0 +1,3 @@
+﻿name;spelltype;animationpath;animationwidth;animationheight;effect1,effect2,effect3
+Fireball;projectile;Resources/fireball.png;64;32;damage-20
+Frostball;projectile;Resources/frostball.png;64;32;damage-50

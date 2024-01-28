@@ -1,0 +1,77 @@
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/bin/Debug/net6.0/lab7.1
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/bin/Debug/net6.0/lab7.1.deps.json
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/bin/Debug/net6.0/lab7.1.runtimeconfig.json
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/bin/Debug/net6.0/lab7.1.dll
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/bin/Debug/net6.0/lab7.1.pdb
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/bin/Debug/net6.0/Merlin2d.dll
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/bin/Debug/net6.0/Raylib-cs.dll
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/bin/Debug/net6.0/TiledSharp.dll
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/bin/Debug/net6.0/runtimes/linux-x64/native/libraylib.so
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/bin/Debug/net6.0/runtimes/linux-x86/native/libraylib.so
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/bin/Debug/net6.0/runtimes/osx-x64/native/libraylib.dylib
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/bin/Debug/net6.0/runtimes/win-x64/native/raylib.dll
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/bin/Debug/net6.0/runtimes/win-x86/native/raylib.dll
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/obj/Debug/net6.0/lab7.1.csproj.AssemblyReference.cache
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/obj/Debug/net6.0/lab7.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/obj/Debug/net6.0/lab7.1.AssemblyInfoInputs.cache
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/obj/Debug/net6.0/lab7.1.AssemblyInfo.cs
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/obj/Debug/net6.0/lab7.1.csproj.CoreCompileInputs.cache
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/obj/Debug/net6.0/lab7.1.csproj.CopyComplete
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/obj/Debug/net6.0/lab7.1.dll
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/obj/Debug/net6.0/refint/lab7.1.dll
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/obj/Debug/net6.0/lab7.1.pdb
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/obj/Debug/net6.0/lab7.1.genruntimeconfig.cache
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/obj/Debug/net6.0/ref/lab7.1.dll
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/bin/Debug/net6.0/resources/maps/map01.tmx
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/bin/Debug/net6.0/resources/maps/tilesets/tileset_basic.png
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/bin/Debug/net6.0/resources/sprites/player.png
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/bin/Debug/net6.0/resources/effects.json
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/bin/Debug/net6.0/resources/spell.csv
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/bin/Debug/net6.0/resources/sprites/healingpotion.png
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/bin/Debug/net6.0/resources/sprites/healingpotion_empty.png
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1/lab7.1/bin/Debug/net6.0/resources/sprites/enemy.png
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/Resources/effects.json
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/Resources/spells.csv
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/lab7.1
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/lab7.1.deps.json
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/lab7.1.runtimeconfig.json
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/lab7.1.dll
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/lab7.1.pdb
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/Merlin2d.dll
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/Raylib-cs.dll
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/TiledSharp.dll
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/runtimes/linux-x64/native/libraylib.so
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/runtimes/linux-x86/native/libraylib.so
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/runtimes/osx-x64/native/libraylib.dylib
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/runtimes/win-x64/native/raylib.dll
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/runtimes/win-x86/native/raylib.dll
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/obj/Debug/net6.0/lab7.1.csproj.AssemblyReference.cache
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/obj/Debug/net6.0/lab7.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/obj/Debug/net6.0/lab7.1.AssemblyInfoInputs.cache
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/obj/Debug/net6.0/lab7.1.AssemblyInfo.cs
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/obj/Debug/net6.0/lab7.1.csproj.CoreCompileInputs.cache
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/obj/Debug/net6.0/lab7.1.csproj.CopyComplete
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/obj/Debug/net6.0/lab7.1.dll
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/obj/Debug/net6.0/refint/lab7.1.dll
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/obj/Debug/net6.0/lab7.1.pdb
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/obj/Debug/net6.0/lab7.1.genruntimeconfig.cache
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/obj/Debug/net6.0/ref/lab7.1.dll
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/Resources/maps/tile5.png
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/Resources/maps/tile5.tmx
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/Resources/.DS_Store
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/Resources/sprites/shq1.png
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/Resources/sprites/shq2.png
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/Resources/sprites/shq3.png
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/Resources/fireball.png
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/Resources/frostball.png
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/Resources/sprites/kick_player.png
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/Resources/sprites/wizard.png
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/Resources/sprites/angel.png
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/Resources/sprites/spikes.png
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/Resources/sprites/water.png
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/Resources/sprites/empty_potion.png
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/Resources/sprites/heal.png
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/Resources/sprites/mana.png
+/Users/nikitakalasnikov/Documents/tuke/c#/lab7.1 — копия/lab7.1/bin/Debug/net6.0/Resources/sprites/poison.png
